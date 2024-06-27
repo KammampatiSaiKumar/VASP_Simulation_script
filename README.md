@@ -1,5 +1,5 @@
-# VASP_Simulation_strain_calculation_scripts
-This repository contains scripts for setting up and running VASP (Vienna Ab-initio Simulation Package) simulations for DOS calculations for different strains values of a Metal.
+# VASP_Simulation_script
+This repository contains script for setting up and running VASP (Vienna Ab-initio Simulation Package) simulations for DOS calculations for different strains values of a Metal.
 
 ## Prerequisites
 
