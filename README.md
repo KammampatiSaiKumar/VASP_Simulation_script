@@ -1,1 +1,1 @@
-# VASP_Simulation_strain_calc_scriotsscript
+# VASP_Simulation_strain_calculation_scripts
